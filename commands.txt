@@ -1,0 +1,12 @@
+git clone url
+pwd (print working directory)
+cd 'path-name'
+cd c://users/dell
+git init
+git add .
+git status
+git commit -m 'added file'
+git remote add origin 'url'
+git remote -v
+git push -u origin master
+git push -f origin master
