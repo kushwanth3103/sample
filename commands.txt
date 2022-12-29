@@ -10,3 +10,4 @@ git remote add origin 'url'
 git remote -v
 git push -u origin master
 git push -f origin master
+B.Kushwanth Sai
